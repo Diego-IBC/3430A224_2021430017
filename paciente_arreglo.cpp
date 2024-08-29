@@ -5,7 +5,7 @@ struct Paciente {
     std::string nombre;
     int edad;
     int peso;
-    float altura;  // Changed to float to represent meters correctly
+    float altura; 
 };
 
 int main() {
