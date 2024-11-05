@@ -1,4 +1,0 @@
-digraph G {
-    node [shape=circle, style=filled, color=lightblue];
-    rankdir=TB;
-}
