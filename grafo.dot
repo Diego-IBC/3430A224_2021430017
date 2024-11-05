@@ -1,0 +1,22 @@
+digraph G {
+    a -> b [label="3"];
+    a -> c [label="2"];
+    a -> d [label="9"];
+    a -> e [label="7"];
+    b -> a [label="5"];
+    b -> c [label="8"];
+    b -> d [label="8"];
+    b -> e [label="5"];
+    c -> a [label="4"];
+    c -> b [label="4"];
+    c -> d [label="8"];
+    c -> e [label="6"];
+    d -> a [label="6"];
+    d -> b [label="2"];
+    d -> c [label="7"];
+    d -> e [label="10"];
+    e -> a [label="3"];
+    e -> b [label="1"];
+    e -> c [label="2"];
+    e -> d [label="6"];
+}
