@@ -1,0 +1,2 @@
+Consumidor 2 eliminó: 2_1 - Eliminado con éxito
+Consumidor 2 eliminó: 1_5 - Eliminado con éxito

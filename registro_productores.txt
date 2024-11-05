@@ -1,0 +1,22 @@
+Productor 1 creado
+Productor 2 creado
+Productor 1 generó: 1_1 - Inserción exitosa
+Productor 2 generó: 2_1 - Inserción exitosa
+Productor 2 generó: 2_2 - Inserción exitosa
+Productor 1 generó: 1_2 - Inserción exitosa
+Productor 2 generó: 2_3 - Inserción exitosa
+Productor 2 generó: 2_4 - Inserción exitosa
+Productor 1 generó: 1_3 - Inserción exitosa
+Productor 2 generó: 2_5 - Inserción exitosa
+Productor 1 generó: 1_4 - Inserción exitosa
+Productor 1 generó: 1_5 - Inserción exitosa
+Productor 1 generó: 1_6 - Inserción exitosa
+Productor 1 generó: 1_7 - Inserción exitosa
+Productor 2 generó: 2_6 - Inserción exitosa
+Productor 2 generó: 2_7 - Inserción exitosa
+Productor 1 generó: 1_8 - Inserción exitosa
+Productor 1 generó: 1_9 - Inserción exitosa
+Productor 2 generó: 2_8 - Inserción exitosa
+Productor 1 generó: 1_10 - Inserción exitosa
+Productor 2 generó: 2_9 - Inserción exitosa
+Productor 2 generó: 2_10 - Inserción exitosa

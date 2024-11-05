@@ -1,0 +1,30 @@
+Consumidor 1 creado
+Consumidor 2 creado
+Consumidor 3 creado
+Consumidor 4 creado
+Consumidor 5 creado
+Consumidor 6 creado
+Consumidor 7 creado
+Consumidor 8 creado
+Consumidor 9 creado
+Consumidor 10 creado
+Consumidor 1 consumió: 1_1 - Consumo exitoso
+Consumidor 2 consumió: 2_1 - Consumo exitoso
+Consumidor 3 consumió: 2_2 - Consumo exitoso
+Consumidor 9 consumió: 1_2 - Consumo exitoso
+Consumidor 4 consumió: 2_3 - Consumo exitoso
+Consumidor 5 consumió: 2_4 - Consumo exitoso
+Consumidor 6 consumió: 1_3 - Consumo exitoso
+Consumidor 7 consumió: 2_5 - Consumo exitoso
+Consumidor 8 consumió: 1_4 - Consumo exitoso
+Consumidor 1 consumió: 1_5 - Consumo exitoso
+Consumidor 1 consumió: 1_6 - Consumo exitoso
+Consumidor 10 consumió: 1_7 - Consumo exitoso
+Consumidor 2 consumió: 2_6 - Consumo exitoso
+Consumidor 4 consumió: 2_7 - Consumo exitoso
+Consumidor 3 consumió: 1_8 - Consumo exitoso
+Consumidor 6 consumió: 1_9 - Consumo exitoso
+Consumidor 5 consumió: 2_8 - Consumo exitoso
+Consumidor 7 consumió: 1_10 - Consumo exitoso
+Consumidor 9 consumió: 2_9 - Consumo exitoso
+Consumidor 10 consumió: 2_10 - Consumo exitoso

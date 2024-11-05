@@ -1,0 +1,16 @@
+Productor 1 generó: 1_1 - Inserción exitosa
+Productor 2 generó: 2_1 - Inserción exitosa
+Consumidor 1 consumio: 1_1 - Consumo exitoso
+Consumidor 2 consumio: 2_1 - Consumo exitoso
+Productor 2 generó: 2_2 - Inserción exitosa
+Consumidor 3 consumio: 2_2 - Consumo exitoso
+Productor 1 generó: 1_2 - Inserción exitosa
+Consumidor 4 consumio: 1_2 - Consumo exitoso
+Productor 1 generó: 1_3 - Inserción exitosa
+Productor 2 generó: 2_3 - Inserción exitosa
+Consumidor 5 consumio: 1_3 - Consumo exitoso
+Consumidor 6 consumio: 2_3 - Consumo exitoso
+Productor 1 generó: 1_4 - Inserción exitosa
+Productor 2 generó: 2_4 - Inserción exitosa
+Consumidor 7 consumio: 1_4 - Consumo exitoso
+Consumidor 8 consumio: 2_4 - Consumo exitoso

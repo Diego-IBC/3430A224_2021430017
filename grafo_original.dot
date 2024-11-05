@@ -1,0 +1,18 @@
+graph G {
+node [style=filled fillcolor=yellow];
+A -- B [label=2];
+A -- C [label=4];
+A -- D [label=8];
+A -- E [label=5];
+A -- F [label=6];
+B -- C [label=8];
+B -- D [label=4];
+B -- E [label=10];
+B -- F [label=5];
+C -- D [label=8];
+C -- E [label=1];
+C -- F [label=6];
+D -- E [label=4];
+D -- F [label=7];
+E -- F [label=7];
+}

@@ -1,0 +1,20 @@
+Productor 1 generó: 1_1 - Inserción exitosa
+1_1
+Productor 1 generó: 1_2 - Inserción exitosa
+1_2
+Productor 1 generó: 1_3 - Inserción exitosa
+1_3
+Productor 1 generó: 1_4 - Inserción exitosa
+1_4
+Productor 1 generó: 1_5 - Inserción exitosa
+1_5
+Productor 1 generó: 1_6 - Inserción exitosa
+1_6
+Productor 1 generó: 1_7 - Inserción exitosa
+1_7
+Productor 1 generó: 1_8 - Inserción exitosa
+1_8
+Productor 1 generó: 1_9 - Inserción exitosa
+1_9
+Productor 1 generó: 1_10 - Inserción exitosa
+1_10
