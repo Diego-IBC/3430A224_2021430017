@@ -1,8 +1,0 @@
-graph MST {
-node [style=filled fillcolor=lightblue];
-A -- B [label=2];
-A -- C [label=4];
-B -- D [label=4];
-C -- E [label=1];
-B -- F [label=5];
-}
